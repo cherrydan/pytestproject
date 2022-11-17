@@ -1,4 +1,4 @@
-from utils import division
+from src.utils import division
 
 
 def test_division_good():

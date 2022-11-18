@@ -1,8 +1,6 @@
 import pytest
 
-
-def division(a, b):
-    return a / b
+from division import division
 
 
 @pytest.mark.parametrize("a, b, expected_result", [(10, 2, 5),

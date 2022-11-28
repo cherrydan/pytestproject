@@ -1,5 +1,5 @@
 import pytest
-
+# Параметризованные тесты в pytest
 from my_funcs.division import division
 
 
